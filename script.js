@@ -22,13 +22,13 @@ ul.style.cssText = 'list-style: none; display: flex; gap: 30px';
 
 const galleryList = [
   {
-    url: '../img/pic01.jpg',
+    url: 'img/pic01.jpg',
     title: 'Замерзший водопад',
     alt: 'Замерзший водопад',
   },
 
   {
-    url: '../img/pic02.jpg',
+    url: 'img/pic02.jpg',
     title: 'Еще водопад',
     alt: 'Водопад',
   },
